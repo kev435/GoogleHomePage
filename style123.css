@@ -1,0 +1,147 @@
+* {
+  color: black;
+  /* margin: 0px;
+  padding: 0px; */
+}
+
+.contaner {
+  display: flex;
+  justify-content: space-between;
+}
+
+.menuH,
+.menuV {
+  display: flex;
+  align-items: center;
+  padding: 0px 10px;
+}
+
+.menuH a {
+  padding: 0px 10px;
+}
+.menuV a {
+  padding: 0px 10px;
+  /* 0px påvirker Top og Bottom */
+  /* 10px påvirker L og R */
+}
+.ikonMenu {
+  width: 50px;
+}
+
+.b1 {
+  background-color: rgb(65, 59, 248);
+  color: white;
+  padding: 10px;
+}
+
+.container2 {
+  align-items: end;
+}
+
+.Google {
+  display: flex;
+  justify-content: center;
+  font-size: 90px;
+}
+
+.container3 {
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid black;
+  border-radius: 20px;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+.search12 {
+  display: flex;
+  justify-content: center;
+  height: 40px;
+}
+
+.search {
+  padding: 14px;
+  width: max-content;
+  display: flex;
+  align-items: center;
+}
+
+.glass {
+  width: 40px;
+  margin: 10px;
+}
+.mic {
+  width: 25px;
+  margin: 20px;
+}
+
+.inp {
+  border: none;
+  outline-style: none;
+}
+
+.container4{
+display: flex;
+justify-content: center;
+margin-top: 30px;
+}
+
+.f1, .f2 {
+height: 50px;
+}
+
+.f1 {
+margin: 10px;
+width: 140px;
+}
+.f2 {
+ 
+margin:10px;
+width: 140px;
+}
+
+.container5 {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+.link{
+  color: blue;
+}
+
+.norge{
+  padding: 0px 10px;
+  border: solid px;
+  height:50px;
+  
+}
+ 
+.container7 {
+  display: flex;
+  justify-content:space-between;
+
+ 
+}
+
+.textv {
+  display: flex;
+  align-items: space-between;
+  padding: 10px;
+  margin: 10px;
+}
+
+.textv p, .texth p {
+  padding: 0px 5px;
+}
+
+.texth {
+  display: flex;
+  align-items: space-between;
+  padding: 10px;
+}
+
+
+.container8 {
+  background-color: lightgray;
+  margin-top: 130px;
+}
